@@ -1,0 +1,35 @@
+name: Chaos
+description: Fast paced FFA game modes
+maps:
+  - name: Garden
+    game_modes:
+      - name: Free-For-All
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+      - name: Head Hunter
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+      - name: Crazy King
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+      - name: King of the Flag
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+  - name: Dome
+    game_modes:
+      - name: Free-For-All
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+      - name: Head Hunter
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+      - name: Crazy King
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+      - name: King of the Flag
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+  - name: Brickton
+    game_modes:
+      - name: Free-For-All
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+      - name: Head Hunter
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+  - name: Exodus
+    game_modes:
+      - name: Team Deathmatch
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+      - name: Breakout
+        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
