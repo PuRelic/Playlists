@@ -1,0 +1,97 @@
+name: Mixed
+description: A blend of team and solo games.
+maps:
+  - name: Arctic Outpost
+    modes:
+      - King of the Flag
+      - Kill Confirmed
+      - Neutral Flag
+      - Team Deathmatch
+      - Team Head Hunter
+  - name: Brickton
+    modes:
+      - Free-For-All
+      - Head Hunter
+      - Death Toll
+      - Team Deathmatch
+      - Breakout
+  - name: Garden
+    modes:
+      - Free-For-All
+      - Death Toll
+      - Head Hunter
+      - Crazy King
+      - King of the Flag
+      - Team Deathmatch
+      - Team Head Hunter
+      - Domination
+      - Stockpile
+  - name: Dome
+    modes:
+      - Free-For-All
+      - Kill Confirmed
+      - Team Kill Confirmed
+  - name: Dead Man's Cove
+    modes:
+      - Free-For-All
+      - Kill Confirmed
+      - Head Hunter
+      - Team Deathmatch
+      - Capture the Flag
+  - name: Kipos
+    modes:
+      - Free-For-All
+      - Kill Confirmed
+      - Head Hunter
+      - King of the Flag
+      - Team Kill Confirmed
+      - Breakout
+  - name: Ruiter
+    modes:
+      - Kill Confirmed
+      - Head Hunter
+      - King of the Flag
+      - Crazy King
+      - Team Deathmatch
+  - name: Sandbox
+    modes:
+      - Free-For-All
+      - Kill Confirmed
+      - Head Hunter
+      - Team Deathmatch
+      - Team Kill Confirmed
+  - name: Suburbia
+    modes:
+      - Kill Confirmed
+      - Head Hunter
+  - name: Zen Garden
+    modes:
+      - King of the Flag
+      - Capture the Flag
+  - name: Swamp
+    modes:
+      - Free-For-All
+      - Death Toll
+  - name: Calyta
+    modes:
+      - Breakout
+      - Team Deathmatch
+  - name: Dust in the Wind
+    modes:
+      - Capture the Flag
+  - name: Exodus
+    modes:
+      - Team Deathmatch
+      - Breakout
+      - Team Kill Confirmed
+  - name: Fort Caelum
+    modes:
+      - Team Deathmatch
+      - Breakout
+  - name: Rokost
+    modes:
+      - Attrition
+  - name: Spore
+    modes:
+      - Team Kill Confirmed
+      - Breakout
