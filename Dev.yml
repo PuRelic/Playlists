@@ -2,6 +2,5 @@ name: Dev
 description: Blank playlist for testing maps and game modes
 maps:
   - name: Garden
-    game_modes:
-      - name: Free-For-All
-        author: 1935c8bf-3fdc-44d6-b358-85a7206ad8ac
+    modes:
+      - Free-For-All
