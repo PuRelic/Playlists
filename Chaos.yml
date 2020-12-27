@@ -50,3 +50,7 @@ maps:
   - name: Zen Garden
     modes:
       - King of the Flag
+  - name: Swamp
+    modes:
+      - Free-For-All
+      - Death Toll
