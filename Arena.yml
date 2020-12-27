@@ -1,0 +1,62 @@
+name: Arena
+description: Work as a team to defeat your opponents.
+maps:
+  - name: Arctic Outpost
+    modes:
+      - Neutral Flag
+      - Team Deathmatch
+      - Team Head Hunter
+  - name: Brickton
+    modes:
+      - Team Deathmatch
+      - Breakout
+  - name: Garden
+    modes:
+      - Team Deathmatch
+      - Team Head Hunter
+      - Domination
+      - Stockpile
+  - name: Dome
+    modes:
+      - Team Kill Confirmed
+  - name: Dead Man's Cove
+    modes:
+      - Team Deathmatch
+      - Capture the Flag
+  - name: Kipos
+    modes:
+      - Team Kill Confirmed
+      - Breakout
+  - name: Ruiter
+    modes:
+      - Team Deathmatch
+  - name: Sandbox
+    modes:
+      - Team Deathmatch
+      - Team Kill Confirmed
+  - name: Zen Garden
+    modes:
+      - Capture the Flag
+  - name: Calyta
+    modes:
+      - Breakout
+      - Team Deathmatch
+  - name: Dust in the Wind
+    modes:
+      - Capture the Flag
+  - name: Exodus
+    modes:
+      - Team Deathmatch
+      - Breakout
+      - Team Kill Confirmed
+  - name: Fort Caelum
+    modes:
+      - Team Deathmatch
+      - Breakout
+  - name: Rokost
+    modes:
+      - Attrition
+  - name: Spore
+    modes:
+      - Team Kill Confirmed
+      - Breakout
