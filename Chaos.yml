@@ -1,20 +1,52 @@
 name: Chaos
 description: Fast paced FFA game modes
 maps:
+  - name: Arctic Outpost
+    modes:
+      - King of the Flag
+      - Kill Confirmed
+  - name: Brickton
+    modes:
+      - Free-For-All
+      - Head Hunter
+      - Death Toll
   - name: Garden
     modes:
       - Free-For-All
+      - Death Toll
       - Head Hunter
       - Crazy King
       - King of the Flag
   - name: Dome
     modes:
       - Free-For-All
-  - name: Brickton
+      - Kill Confirmed
+  - name: Dead Man's Cove
     modes:
       - Free-For-All
+      - Kill Confirmed
       - Head Hunter
-  - name: Exodus
+  - name: Kipos
     modes:
-      - Team Deathmatch
-      - Breakout
+      - Free-For-All
+      - Kill Confirmed
+      - Head Hunter
+      - King of the Flag
+  - name: Ruiter
+    modes:
+      - Kill Confirmed
+      - Head Hunter
+      - King of the Flag
+      - Crazy King
+  - name: Sandbox
+    modes:
+      - Free-For-All
+      - Kill Confirmed
+      - Head Hunter
+  - name: Suburbia
+    modes:
+      - Kill Confirmed
+      - Head Hunter
+  - name: Zen Garden
+    modes:
+      - King of the Flag
