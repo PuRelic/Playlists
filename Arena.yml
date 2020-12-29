@@ -1,5 +1,4 @@
-name: Arena
-description: Work as a team to defeat your opponents.
+min_players: 4
 maps:
   - name: Arctic Outpost
     modes:
