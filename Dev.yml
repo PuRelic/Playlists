@@ -1,5 +1,4 @@
-name: Dev
-description: Blank playlist for testing maps and game modes
+min_players: 2
 maps:
   - name: Garden
     modes:
