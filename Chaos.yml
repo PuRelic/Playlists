@@ -1,5 +1,4 @@
-name: Chaos
-description: Fast paced FFA game modes
+min_players: 2
 maps:
   - name: Arctic Outpost
     modes:
