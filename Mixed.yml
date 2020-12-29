@@ -1,5 +1,4 @@
-name: Mixed
-description: A blend of team and solo games.
+min_players: 4
 maps:
   - name: Arctic Outpost
     modes:
