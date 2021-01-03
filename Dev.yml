@@ -3,3 +3,6 @@ maps:
   - name: Garden
     modes:
       - Free-For-All
+  - name: Castle
+    modes:
+      - Bed Wars
