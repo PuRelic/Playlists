@@ -9,3 +9,6 @@ maps:
   - name: Sugar Rush
     modes:
       - Bed Wars
+  - name: Wyrmwood Forest
+    modes:
+      - Bed Wars Doubles
