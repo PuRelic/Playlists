@@ -1,0 +1,17 @@
+min_players: 12
+maps:
+  - name: Castle
+    modes:
+      - Bed Wars
+  - name: Lost Temple
+    modes:
+      - Bed Wars
+  - name: Sugar Rush
+    modes:
+      - Bed Wars
+  - name: Golden Nebula
+    modes:
+      - Bed Wars
+  - name: Atlantis
+    modes:
+      - Bed Wars
