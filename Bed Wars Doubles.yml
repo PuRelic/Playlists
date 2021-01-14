@@ -1,0 +1,8 @@
+min_players: 6
+maps:
+  - name: Wyrmwood Forest
+    modes:
+      - Bed Wars Doubles
+  - name: Irongate
+    modes:
+      - Bed Wars Doubles
