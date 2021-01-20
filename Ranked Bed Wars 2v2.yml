@@ -1,0 +1,8 @@
+min_players: 4
+maps:
+  - name: Lost Temple Duel
+    modes:
+      - Bed Wars 2v2
+  - name: Irongate Duel
+    modes:
+      - Bed Wars 2v2
