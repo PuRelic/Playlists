@@ -1,0 +1,29 @@
+min_players: 8
+maps:
+  - name: Arctic Outpost
+    modes:
+      - Neutral Flag
+  - name: Sandbox
+    modes:
+      - Team Deathmatch
+  - name: Zen Garden
+    modes:
+      - Capture the Flag
+  - name: Calyta
+    modes:
+      - Team Deathmatch
+  - name: Dust in the Wind
+    modes:
+      - Capture the Flag
+  - name: Exodus
+    modes:
+      - Breakout
+  - name: Fort Caelum
+    modes:
+      - Breakout
+  - name: Rokost
+    modes:
+      - Attrition
+  - name: Diamond Mines
+    modes:
+      - Attrition
