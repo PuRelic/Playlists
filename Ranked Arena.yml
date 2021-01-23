@@ -9,9 +9,6 @@ maps:
   - name: Zen Garden
     modes:
       - Capture the Flag
-  - name: Calyta
-    modes:
-      - Team Deathmatch
   - name: Dust in the Wind
     modes:
       - Capture the Flag
