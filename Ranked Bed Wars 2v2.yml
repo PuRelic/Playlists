@@ -6,3 +6,9 @@ maps:
   - name: Irongate Duel
     modes:
       - Bed Wars 2v2
+  - name: Sugar Rush Duel
+    modes:
+      - Bed Wars 2v2
+  - name: Wyrmwood Forest Duel
+    modes:
+      - Bed Wars 2v2
