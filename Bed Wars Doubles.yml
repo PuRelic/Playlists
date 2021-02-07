@@ -1,4 +1,4 @@
-min_players: 6
+min_players: 2
 maps:
   - name: Wyrmwood Forest
     modes:
