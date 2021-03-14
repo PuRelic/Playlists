@@ -6,3 +6,6 @@ maps:
   - name: Irongate
     modes:
       - Bed Wars Doubles
+  - name: Winterhold
+    modes:
+      - Bed Wars Doubles
