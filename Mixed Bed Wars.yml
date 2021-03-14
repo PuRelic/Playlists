@@ -21,3 +21,6 @@ maps:
   - name: Atlantis
     modes:
       - Bed Wars
+  - name: Winterhold
+    modes:
+      - Bed Wars Doubles
