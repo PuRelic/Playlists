@@ -4,10 +4,12 @@ maps:
     modes:
       - King of the Flag
       - Kill Confirmed
+      - Free-For-All
   - name: Brickton
     modes:
       - Free-For-All
       - Head Hunter
+      - Kill Confirmed
       - Death Toll
   - name: Garden
     modes:
@@ -20,6 +22,7 @@ maps:
     modes:
       - Free-For-All
       - Kill Confirmed
+      - Death Toll
   - name: Dead Man's Cove
     modes:
       - Free-For-All
@@ -37,6 +40,7 @@ maps:
       - Head Hunter
       - King of the Flag
       - Crazy King
+      - Free-For-All
   - name: Sandbox
     modes:
       - Free-For-All
@@ -46,6 +50,8 @@ maps:
     modes:
       - Kill Confirmed
       - Head Hunter
+      - Free-For-All
+      - Death Toll
   - name: Zen Garden
     modes:
       - King of the Flag
@@ -53,3 +59,10 @@ maps:
     modes:
       - Free-For-All
       - Death Toll
+      - Kill Confirmed
+  - name: Singe
+    modes:
+      - Free-For-All
+      - Death Toll
+      - Kill Confirmed
+      - King of the Flag
