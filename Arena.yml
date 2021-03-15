@@ -8,16 +8,38 @@ maps:
   - name: Brickton
     modes:
       - Team Deathmatch
+      - Team Kill Confirmed
+      - Team Head Hunter
       - Breakout
+      - Multi-Team Deathmatch
+      - Multi-Team Head Hunter
+      - Multi-Team Kill Confirmed
+      - Multi-Team Breakout
   - name: Garden
     modes:
       - Team Deathmatch
       - Team Head Hunter
       - Domination
       - Stockpile
+      - Multi-Team Stockpile
+      - Multi-Team Deathmatch
+      - Multi-Team Head Hunter
+      - Team Crazy King
+      - Multi-Team Crazy King
+      - Squad Breakout
+      - Squad Kill Confirmed
+      - Squad Crazy King
+      - Squad King of the Flag
+      - Squad Deathmatch
   - name: Dome
     modes:
       - Team Kill Confirmed
+      - Breakout
+      - Multi-Team Kill Confirmed
+      - Multi-Team Breakout
+      - Squad Deathmatch
+      - Squad Kill Confirmed
+      - Squad Breakout
   - name: Dead Man's Cove
     modes:
       - Team Deathmatch
@@ -26,13 +48,24 @@ maps:
     modes:
       - Team Kill Confirmed
       - Breakout
+      - Team Head Hunter
+      - Multi-Team Head Hunter
+      - Squad Head Hunter
+      - Multi-Team Kill Confirmed
+      - Squad Kill Confirmed
+      - Multi-Team Breakout
+      - Squad Breakout
+      - Squad King of the Flag
   - name: Ruiter
     modes:
       - Team Deathmatch
+      - Team Kill Confirmed
+      - Breakout
   - name: Sandbox
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
+      - Team Head Hunter
   - name: Zen Garden
     modes:
       - Capture the Flag
@@ -40,6 +73,7 @@ maps:
     modes:
       - Breakout
       - Team Deathmatch
+      - Team Kill Confirmed
   - name: Dust in the Wind
     modes:
       - Capture the Flag
@@ -52,10 +86,32 @@ maps:
     modes:
       - Team Deathmatch
       - Breakout
+      - Team Kill Confirmed
   - name: Rokost
     modes:
       - Attrition
+      - Neutral Flag
+      - Team Head Hunter
   - name: Spore
     modes:
       - Team Kill Confirmed
       - Breakout
+      - Team Deathmatch
+  - name: Diamond Mines
+    modes:
+      - Attrition
+  - name: Jungler
+    modes:
+      - Attrition
+      - Team Deathmatch
+      - Team Kill Confirmed
+  - name: Singe
+    modes:
+      - Domination
+      - Team Deathmatch
+      - Team Head Hunter
+      - Team Kill Confirmed
+      - Team Breakout
+  - name: Fluss
+    modes:
+      - Capture the Flag
