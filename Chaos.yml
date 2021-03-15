@@ -60,6 +60,7 @@ maps:
       - Free-For-All
       - Death Toll
       - Kill Confirmed
+      - King of the Flag
   - name: Singe
     modes:
       - Free-For-All
