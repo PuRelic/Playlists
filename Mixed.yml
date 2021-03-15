@@ -7,6 +7,7 @@ maps:
       - Neutral Flag
       - Team Deathmatch
       - Team Head Hunter
+      - Free-For-All
   - name: Brickton
     modes:
       - Free-For-All
@@ -14,6 +15,13 @@ maps:
       - Death Toll
       - Team Deathmatch
       - Breakout
+      - Kill Confirmed
+      - Team Kill Confirmed
+      - Team Head Hunter
+      - Multi-Team Deathmatch
+      - Multi-Team Head Hunter
+      - Multi-Team Kill Confirmed
+      - Multi-Team Breakout
   - name: Garden
     modes:
       - Free-For-All
@@ -25,11 +33,28 @@ maps:
       - Team Head Hunter
       - Domination
       - Stockpile
+      - Multi-Team Stockpile
+      - Multi-Team Deathmatch
+      - Multi-Team Head Hunter
+      - Team Crazy King
+      - Multi-Team Crazy King
+      - Squad Breakout
+      - Squad Kill Confirmed
+      - Squad Crazy King
+      - Squad King of the Flag
+      - Squad Deathmatch
   - name: Dome
     modes:
       - Free-For-All
       - Kill Confirmed
       - Team Kill Confirmed
+      - Death Toll
+      - Breakout
+      - Multi-Team Kill Confirmed
+      - Multi-Team Breakout
+      - Squad Deathmatch
+      - Squad Kill Confirmed
+      - Squad Breakout
   - name: Dead Man's Cove
     modes:
       - Free-For-All
@@ -45,6 +70,14 @@ maps:
       - King of the Flag
       - Team Kill Confirmed
       - Breakout
+      - Team Head Hunter
+      - Multi-Team Head Hunter
+      - Squad Head Hunter
+      - Multi-Team Kill Confirmed
+      - Squad Kill Confirmed
+      - Multi-Team Breakout
+      - Squad Breakout
+      - Squad King of the Flag
   - name: Ruiter
     modes:
       - Kill Confirmed
@@ -52,6 +85,9 @@ maps:
       - King of the Flag
       - Crazy King
       - Team Deathmatch
+      - Free-For-All
+      - Team Kill Confirmed
+      - Breakout
   - name: Sandbox
     modes:
       - Free-For-All
@@ -59,10 +95,13 @@ maps:
       - Head Hunter
       - Team Deathmatch
       - Team Kill Confirmed
+      - Team Head Hunter
   - name: Suburbia
     modes:
       - Kill Confirmed
       - Head Hunter
+      - Free-For-All
+      - Death Toll
   - name: Zen Garden
     modes:
       - King of the Flag
@@ -71,10 +110,13 @@ maps:
     modes:
       - Free-For-All
       - Death Toll
+      - Kill Confirmed
+      - King of the Flag
   - name: Calyta
     modes:
       - Breakout
       - Team Deathmatch
+      - Team Kill Confirmed
   - name: Dust in the Wind
     modes:
       - Capture the Flag
@@ -87,10 +129,36 @@ maps:
     modes:
       - Team Deathmatch
       - Breakout
+      - Team Kill Confirmed
   - name: Rokost
     modes:
       - Attrition
+      - Neutral Flag
+      - Team Head Hunter
   - name: Spore
     modes:
       - Team Kill Confirmed
       - Breakout
+      - Team Deathmatch
+  - name: Singe
+    modes:
+      - Free-For-All
+      - Death Toll
+      - Kill Confirmed
+      - King of the Flag
+      - Domination
+      - Team Deathmatch
+      - Team Head Hunter
+      - Team Kill Confirmed
+      - Team Breakout
+  - name: Fluss
+    modes:
+      - Capture the Flag
+  - name: Diamond Mines
+    modes:
+      - Attrition
+  - name: Jungler
+    modes:
+      - Attrition
+      - Team Deathmatch
+      - Team Kill Confirmed
