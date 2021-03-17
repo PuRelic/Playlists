@@ -162,3 +162,9 @@ maps:
       - Attrition
       - Team Deathmatch
       - Team Kill Confirmed
+  - name: Hooktail
+    modes:
+      - Attrition
+      - Team Deathmatch
+      - Breakout
+      - Team Kill Confirmed
