@@ -150,7 +150,7 @@ maps:
       - Team Deathmatch
       - Team Head Hunter
       - Team Kill Confirmed
-      - Team Breakout
+      - Breakout
   - name: Fluss
     modes:
       - Capture the Flag
