@@ -115,3 +115,9 @@ maps:
   - name: Fluss
     modes:
       - Capture the Flag
+  - name: Hooktail
+    modes:
+      - Attrition
+      - Team Deathmatch
+      - Breakout
+      - Team Kill Confirmed
