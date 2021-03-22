@@ -168,3 +168,13 @@ maps:
       - Team Deathmatch
       - Breakout
       - Team Kill Confirmed
+  - name: Canbor
+    modes:
+      - Team Deathmatch
+      - Team Kill Confirmed
+      - Breakout
+      - Kill Confirmed
+      - Head Hunter
+      - Free-For-All
+      - Death Toll
+      - King of the Flag
