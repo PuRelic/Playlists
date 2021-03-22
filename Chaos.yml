@@ -67,3 +67,10 @@ maps:
       - Death Toll
       - Kill Confirmed
       - King of the Flag
+  - name: Canbor
+    modes:
+      - Kill Confirmed
+      - Head Hunter
+      - Free-For-All
+      - Death Toll
+      - King of the Flag
