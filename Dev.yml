@@ -6,3 +6,6 @@ maps:
   - name: Castle
     modes:
       - Bed Wars
+  - name: Test
+    modes:
+      - Bed Wars
