@@ -195,3 +195,7 @@ maps:
       - Breakout
       - Team Deathmatch
       - Team Kill Confirmed
+  - name: Spiral Mountain
+    modes:
+      - Head Hunter
+      - Free-For-All
