@@ -9,3 +9,9 @@ maps:
   - name: Winterhold
     modes:
       - Bed Wars Doubles
+  - name: Jungle Jam
+    modes:
+      - Bed Wars Doubles
+  - name: Loomish
+    modes:
+      - Bed Wars Doubles
