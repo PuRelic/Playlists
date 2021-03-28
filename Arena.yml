@@ -5,6 +5,7 @@ maps:
       - Neutral Flag
       - Team Deathmatch
       - Team Head Hunter
+      - Team King of the Flag
   - name: Brickton
     modes:
       - Team Deathmatch
@@ -56,11 +57,13 @@ maps:
       - Multi-Team Breakout
       - Squad Breakout
       - Squad King of the Flag
+      - Team King of the Flag
   - name: Ruiter
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
       - Breakout
+      - Team King of the Flag
   - name: Sandbox
     modes:
       - Team Deathmatch
@@ -92,6 +95,7 @@ maps:
       - Attrition
       - Neutral Flag
       - Team Head Hunter
+      - Team King of the Flag
   - name: Spore
     modes:
       - Team Kill Confirmed
@@ -126,3 +130,16 @@ maps:
       - Team Deathmatch
       - Team Kill Confirmed
       - Breakout
+      - Team King of the Flag
+  - name: Glowshroom Cave
+    modes:
+      - Flag Football
+  - name: Solstice
+    modes:
+      - Flag Football
+  - name: Buffalo
+    modes:
+      - Team King of the Flag
+      - Breakout
+      - Team Deathmatch
+      - Team Kill Confirmed
