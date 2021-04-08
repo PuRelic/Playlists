@@ -11,7 +11,7 @@ maps:
       - Team Deathmatch
       - Team Kill Confirmed
       - Team Head Hunter
-      - Breakout
+      - Team Breakout
       - Multi-Team Deathmatch
       - Multi-Team Head Hunter
       - Multi-Team Kill Confirmed
@@ -35,7 +35,7 @@ maps:
   - name: Dome
     modes:
       - Team Kill Confirmed
-      - Breakout
+      - Team Breakout
       - Multi-Team Kill Confirmed
       - Multi-Team Breakout
       - Squad Deathmatch
@@ -48,7 +48,7 @@ maps:
   - name: Kipos
     modes:
       - Team Kill Confirmed
-      - Breakout
+      - Team Breakout
       - Team Head Hunter
       - Multi-Team Head Hunter
       - Squad Head Hunter
@@ -62,7 +62,7 @@ maps:
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
-      - Breakout
+      - Team Breakout
       - Team King of the Flag
   - name: Sandbox
     modes:
@@ -74,7 +74,7 @@ maps:
       - Capture the Flag
   - name: Calyta
     modes:
-      - Breakout
+      - Team Breakout
       - Team Deathmatch
       - Team Kill Confirmed
   - name: Dust in the Wind
@@ -83,12 +83,12 @@ maps:
   - name: Exodus
     modes:
       - Team Deathmatch
-      - Breakout
+      - Team Breakout
       - Team Kill Confirmed
   - name: Fort Caelum
     modes:
       - Team Deathmatch
-      - Breakout
+      - Team Breakout
       - Team Kill Confirmed
   - name: Rokost
     modes:
@@ -99,7 +99,7 @@ maps:
   - name: Spore
     modes:
       - Team Kill Confirmed
-      - Breakout
+      - Team reakout
       - Team Deathmatch
   - name: Diamond Mines
     modes:
@@ -115,7 +115,7 @@ maps:
       - Team Deathmatch
       - Team Head Hunter
       - Team Kill Confirmed
-      - Breakout
+      - Team Breakout
   - name: Fluss
     modes:
       - Capture the Flag
@@ -123,13 +123,13 @@ maps:
     modes:
       - Attrition
       - Team Deathmatch
-      - Breakout
+      - Team Breakout
       - Team Kill Confirmed
   - name: Canbor
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
-      - Breakout
+      - Team Breakout
       - Team King of the Flag
   - name: Glowshroom Cave
     modes:
@@ -140,6 +140,6 @@ maps:
   - name: Buffalo
     modes:
       - Team King of the Flag
-      - Breakout
+      - Team Breakout
       - Team Deathmatch
       - Team Kill Confirmed
