@@ -13,9 +13,9 @@ maps:
     modes:
       - Free-For-All
       - Head Hunter
-      - Death Toll
-      - Team Deathmatch
       - Breakout
+      - Team Deathmatch
+      - Team Breakout
       - Kill Confirmed
       - Team Kill Confirmed
       - Team Head Hunter
@@ -26,7 +26,7 @@ maps:
   - name: Garden
     modes:
       - Free-For-All
-      - Death Toll
+      - Breakout
       - Head Hunter
       - Crazy King
       - King of the Flag
@@ -49,8 +49,8 @@ maps:
       - Free-For-All
       - Kill Confirmed
       - Team Kill Confirmed
-      - Death Toll
       - Breakout
+      - Team Breakout
       - Multi-Team Kill Confirmed
       - Multi-Team Breakout
       - Squad Deathmatch
@@ -70,7 +70,7 @@ maps:
       - Head Hunter
       - King of the Flag
       - Team Kill Confirmed
-      - Breakout
+      - Team Breakout
       - Team Head Hunter
       - Multi-Team Head Hunter
       - Squad Head Hunter
@@ -89,7 +89,7 @@ maps:
       - Team Deathmatch
       - Free-For-All
       - Team Kill Confirmed
-      - Breakout
+      - Team Breakout
       - Team King of the Flag
   - name: Sandbox
     modes:
@@ -104,7 +104,7 @@ maps:
       - Kill Confirmed
       - Head Hunter
       - Free-For-All
-      - Death Toll
+      - Breakout
   - name: Zen Garden
     modes:
       - King of the Flag
@@ -112,12 +112,12 @@ maps:
   - name: Swamp
     modes:
       - Free-For-All
-      - Death Toll
+      - Breakout
       - Kill Confirmed
       - King of the Flag
   - name: Calyta
     modes:
-      - Breakout
+      - Team Breakout
       - Team Deathmatch
       - Team Kill Confirmed
   - name: Dust in the Wind
@@ -126,12 +126,12 @@ maps:
   - name: Exodus
     modes:
       - Team Deathmatch
-      - Breakout
+      - Team Breakout
       - Team Kill Confirmed
   - name: Fort Caelum
     modes:
       - Team Deathmatch
-      - Breakout
+      - Team Breakout
       - Team Kill Confirmed
   - name: Rokost
     modes:
@@ -142,19 +142,19 @@ maps:
   - name: Spore
     modes:
       - Team Kill Confirmed
-      - Breakout
+      - Team Breakout
       - Team Deathmatch
   - name: Singe
     modes:
       - Free-For-All
-      - Death Toll
+      - Breakout
       - Kill Confirmed
       - King of the Flag
       - Domination
       - Team Deathmatch
       - Team Head Hunter
       - Team Kill Confirmed
-      - Breakout
+      - Team Breakout
   - name: Fluss
     modes:
       - Capture the Flag
@@ -170,17 +170,17 @@ maps:
     modes:
       - Attrition
       - Team Deathmatch
-      - Breakout
+      - Team Breakout
       - Team Kill Confirmed
   - name: Canbor
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
-      - Breakout
+      - Team Breakout
       - Kill Confirmed
       - Head Hunter
       - Free-For-All
-      - Death Toll
+      - Breakout
       - King of the Flag
       - Team King of the Flag
   - name: Glowshroom Cave
@@ -192,7 +192,7 @@ maps:
   - name: Buffalo
     modes:
       - Team King of the Flag
-      - Breakout
+      - Team Breakout
       - Team Deathmatch
       - Team Kill Confirmed
   - name: Spiral Mountain
