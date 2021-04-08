@@ -10,11 +10,11 @@ maps:
       - Free-For-All
       - Head Hunter
       - Kill Confirmed
-      - Death Toll
+      - Breakout
   - name: Garden
     modes:
       - Free-For-All
-      - Death Toll
+      - Breakout
       - Head Hunter
       - Crazy King
       - King of the Flag
@@ -22,7 +22,7 @@ maps:
     modes:
       - Free-For-All
       - Kill Confirmed
-      - Death Toll
+      - Breakout
   - name: Dead Man's Cove
     modes:
       - Free-For-All
