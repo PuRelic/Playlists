@@ -93,9 +93,6 @@ maps:
       - Team King of the Flag
   - name: Sandbox
     modes:
-      - Free-For-All
-      - Kill Confirmed
-      - Head Hunter
       - Team Deathmatch
       - Team Kill Confirmed
       - Team Head Hunter
