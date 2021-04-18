@@ -8,14 +8,12 @@ maps:
   - name: Brickton
     modes:
       - Free-For-All
-      - Head Hunter
       - Kill Confirmed
       - Breakoutsand
   - name: Garden
     modes:
       - Free-For-All
       - Breakout
-      - Head Hunter
       - Crazy King
       - King of the Flag
   - name: Dome
@@ -27,24 +25,20 @@ maps:
     modes:
       - Free-For-All
       - Kill Confirmed
-      - Head Hunter
   - name: Kipos
     modes:
       - Free-For-All
       - Kill Confirmed
-      - Head Hunter
       - King of the Flag
   - name: Ruiter
     modes:
       - Kill Confirmed
-      - Head Hunter
       - King of the Flag
       - Crazy King
       - Free-For-All
   - name: Suburbia
     modes:
       - Kill Confirmed
-      - Head Hunter
       - Free-For-All
       - Death Toll
   - name: Zen Garden
@@ -65,11 +59,9 @@ maps:
   - name: Canbor
     modes:
       - Kill Confirmed
-      - Head Hunter
       - Free-For-All
       - Death Toll
       - King of the Flag
   - name: Spiral Mountain
     modes:
-      - Head Hunter
       - Free-For-All
