@@ -10,7 +10,7 @@ maps:
       - Free-For-All
       - Head Hunter
       - Kill Confirmed
-      - Breakout
+      - Breakoutsand
   - name: Garden
     modes:
       - Free-For-All
@@ -41,11 +41,6 @@ maps:
       - King of the Flag
       - Crazy King
       - Free-For-All
-  - name: Sandbox
-    modes:
-      - Free-For-All
-      - Kill Confirmed
-      - Head Hunter
   - name: Suburbia
     modes:
       - Kill Confirmed
