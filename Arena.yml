@@ -4,27 +4,22 @@ maps:
     modes:
       - Neutral Flag
       - Team Deathmatch
-      - Team Head Hunter
       - Team King of the Flag
   - name: Brickton
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
-      - Team Head Hunter
       - Team Breakout
       - Multi-Team Deathmatch
-      - Multi-Team Head Hunter
       - Multi-Team Kill Confirmed
       - Multi-Team Breakout
   - name: Garden
     modes:
       - Team Deathmatch
-      - Team Head Hunter
       - Domination
       - Stockpile
       - Multi-Team Stockpile
       - Multi-Team Deathmatch
-      - Multi-Team Head Hunter
       - Team Crazy King
       - Multi-Team Crazy King
       - Squad Breakout
@@ -49,9 +44,6 @@ maps:
     modes:
       - Team Kill Confirmed
       - Team Breakout
-      - Team Head Hunter
-      - Multi-Team Head Hunter
-      - Squad Head Hunter
       - Multi-Team Kill Confirmed
       - Squad Kill Confirmed
       - Multi-Team Breakout
@@ -68,7 +60,6 @@ maps:
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
-      - Team Head Hunter
   - name: Zen Garden
     modes:
       - Capture the Flag
@@ -94,7 +85,6 @@ maps:
     modes:
       - Attrition
       - Neutral Flag
-      - Team Head Hunter
       - Team King of the Flag
   - name: Spore
     modes:
@@ -113,7 +103,6 @@ maps:
     modes:
       - Domination
       - Team Deathmatch
-      - Team Head Hunter
       - Team Kill Confirmed
       - Team Breakout
   - name: Fluss
