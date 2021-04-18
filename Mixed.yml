@@ -6,37 +6,30 @@ maps:
       - Kill Confirmed
       - Neutral Flag
       - Team Deathmatch
-      - Team Head Hunter
       - Free-For-All
       - Team King of the Flag
   - name: Brickton
     modes:
       - Free-For-All
-      - Head Hunter
       - Breakout
       - Team Deathmatch
       - Team Breakout
       - Kill Confirmed
       - Team Kill Confirmed
-      - Team Head Hunter
       - Multi-Team Deathmatch
-      - Multi-Team Head Hunter
       - Multi-Team Kill Confirmed
       - Multi-Team Breakout
   - name: Garden
     modes:
       - Free-For-All
       - Breakout
-      - Head Hunter
       - Crazy King
       - King of the Flag
       - Team Deathmatch
-      - Team Head Hunter
       - Domination
       - Stockpile
       - Multi-Team Stockpile
       - Multi-Team Deathmatch
-      - Multi-Team Head Hunter
       - Team Crazy King
       - Multi-Team Crazy King
       - Squad Breakout
@@ -60,20 +53,15 @@ maps:
     modes:
       - Free-For-All
       - Kill Confirmed
-      - Head Hunter
       - Team Deathmatch
       - Capture the Flag
   - name: Kipos
     modes:
       - Free-For-All
       - Kill Confirmed
-      - Head Hunter
       - King of the Flag
       - Team Kill Confirmed
       - Team Breakout
-      - Team Head Hunter
-      - Multi-Team Head Hunter
-      - Squad Head Hunter
       - Multi-Team Kill Confirmed
       - Squad Kill Confirmed
       - Multi-Team Breakout
@@ -83,7 +71,6 @@ maps:
   - name: Ruiter
     modes:
       - Kill Confirmed
-      - Head Hunter
       - King of the Flag
       - Crazy King
       - Team Deathmatch
@@ -95,11 +82,9 @@ maps:
     modes:
       - Team Deathmatch
       - Team Kill Confirmed
-      - Team Head Hunter
   - name: Suburbia
     modes:
       - Kill Confirmed
-      - Head Hunter
       - Free-For-All
       - Breakout
   - name: Zen Garden
@@ -134,7 +119,6 @@ maps:
     modes:
       - Attrition
       - Neutral Flag
-      - Team Head Hunter
       - Team King of the Flag
   - name: Spore
     modes:
@@ -149,7 +133,6 @@ maps:
       - King of the Flag
       - Domination
       - Team Deathmatch
-      - Team Head Hunter
       - Team Kill Confirmed
       - Team Breakout
   - name: Fluss
@@ -175,7 +158,6 @@ maps:
       - Team Kill Confirmed
       - Team Breakout
       - Kill Confirmed
-      - Head Hunter
       - Free-For-All
       - Breakout
       - King of the Flag
@@ -194,5 +176,4 @@ maps:
       - Team Kill Confirmed
   - name: Spiral Mountain
     modes:
-      - Head Hunter
       - Free-For-All
