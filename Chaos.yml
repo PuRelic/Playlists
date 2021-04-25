@@ -9,7 +9,7 @@ maps:
     modes:
       - Free-For-All
       - Kill Confirmed
-      - Breakoutsand
+      - Breakout
   - name: Garden
     modes:
       - Free-For-All
