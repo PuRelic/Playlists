@@ -132,3 +132,20 @@ maps:
       - Team Breakout
       - Team Deathmatch
       - Team Kill Confirmed
+  - name: Talovy
+    modes:
+      - Multi-Team Breakout
+      - Team Breakout
+      - Team Deathmatch
+  - name: Concourse
+    modes:
+      - Team King of the Flag
+  - name: Medieval
+    modes:
+      - Flag Football
+  - name: Sakura
+    modes:
+      - Flag Football
+  - name: Swashbuckler
+    modes:
+      - Flag Football
