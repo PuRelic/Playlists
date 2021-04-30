@@ -97,8 +97,6 @@ maps:
   - name: Jungler
     modes:
       - Attrition
-      - Team Deathmatch
-      - Team Kill Confirmed
   - name: Singe
     modes:
       - Domination
@@ -111,9 +109,6 @@ maps:
   - name: Hooktail
     modes:
       - Attrition
-      - Team Deathmatch
-      - Team Breakout
-      - Team Kill Confirmed
   - name: Canbor
     modes:
       - Team Deathmatch
@@ -136,7 +131,6 @@ maps:
     modes:
       - Multi-Team Breakout
       - Team Breakout
-      - Team Deathmatch
   - name: Concourse
     modes:
       - Team King of the Flag
@@ -149,3 +143,6 @@ maps:
   - name: Swashbuckler
     modes:
       - Flag Football
+  - name: Hobbersnatch
+      - Capture the Flag
+      
