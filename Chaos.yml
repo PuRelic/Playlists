@@ -65,3 +65,13 @@ maps:
   - name: Spiral Mountain
     modes:
       - Free-For-All
+  - name: Aquarena 
+    modes: 
+      - Free-For-All
+      - Kill Confirmed
+      - Breakout
+  - name: Mohenjo-daro
+    modes:
+      - Free-For-All
+      - Kill Confirmed
+      - Breakout
