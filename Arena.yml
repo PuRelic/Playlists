@@ -149,3 +149,7 @@ maps:
   - name: Swashbuckler
     modes:
       - Flag Football
+  - name: Library
+      - Flag Football
+  - name: Illios
+      - Team King of the Flag
