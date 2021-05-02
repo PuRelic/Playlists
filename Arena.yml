@@ -144,5 +144,6 @@ maps:
     modes:
       - Flag Football
   - name: Hobbersnatch
+    modes:
       - Capture the Flag
       
