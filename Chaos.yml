@@ -2,7 +2,6 @@ min_players: 2
 maps:
   - name: Arctic Outpost
     modes:
-      - King of the Flag
       - Kill Confirmed
       - Free-For-All
   - name: Brickton
@@ -15,7 +14,6 @@ maps:
       - Free-For-All
       - Breakout
       - Crazy King
-      - King of the Flag
   - name: Dome
     modes:
       - Free-For-All
@@ -29,11 +27,9 @@ maps:
     modes:
       - Free-For-All
       - Kill Confirmed
-      - King of the Flag
   - name: Ruiter
     modes:
       - Kill Confirmed
-      - King of the Flag
       - Crazy King
       - Free-For-All
   - name: Suburbia
@@ -44,24 +40,22 @@ maps:
   - name: Zen Garden
     modes:
       - King of the Flag
+      - Free-for-All
   - name: Swamp
     modes:
       - Free-For-All
       - Death Toll
       - Kill Confirmed
-      - King of the Flag
   - name: Singe
     modes:
       - Free-For-All
       - Death Toll
       - Kill Confirmed
-      - King of the Flag
   - name: Canbor
     modes:
       - Kill Confirmed
       - Free-For-All
       - Death Toll
-      - King of the Flag
   - name: Spiral Mountain
     modes:
       - Free-For-All
