@@ -39,7 +39,6 @@ maps:
       - Death Toll
   - name: Zen Garden
     modes:
-      - King of the Flag
       - Free-for-All
   - name: Swamp
     modes:
