@@ -2,7 +2,6 @@ min_players: 4
 maps:
   - name: Arctic Outpost
     modes:
-      - Neutral Flag
       - Team Deathmatch
       - Team King of the Flag
   - name: Brickton
@@ -39,7 +38,6 @@ maps:
   - name: Dead Man's Cove
     modes:
       - Team Deathmatch
-      - Capture the Flag
   - name: Kipos
     modes:
       - Team Kill Confirmed
@@ -55,7 +53,6 @@ maps:
       - Team Deathmatch
       - Team Kill Confirmed
       - Team Breakout
-      - Team King of the Flag
   - name: Sandbox
     modes:
       - Team Deathmatch
@@ -100,9 +97,6 @@ maps:
   - name: Singe
     modes:
       - Domination
-      - Team Deathmatch
-      - Team Kill Confirmed
-      - Team Breakout
   - name: Fluss
     modes:
       - Capture the Flag
@@ -114,7 +108,6 @@ maps:
       - Team Deathmatch
       - Team Kill Confirmed
       - Team Breakout
-      - Team King of the Flag
   - name: Glowshroom Cave
     modes:
       - Flag Football
@@ -146,4 +139,18 @@ maps:
   - name: Hobbersnatch
     modes:
       - Capture the Flag
-      
+  - name: Library
+    modes:
+      - Flag Football
+  - name: Illios
+    modes:
+      - Team King of the Flag
+  - name: Lunar Lanes
+    modes: 
+      - Neutral Flag
+  - name: Treeshroud
+    modes: 
+      - Neutral Flag
+  - name: Ollie
+    modes: 
+      - Attrition
