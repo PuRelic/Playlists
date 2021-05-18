@@ -54,7 +54,6 @@ maps:
       - Free-For-All
       - Kill Confirmed
       - Team Deathmatch
-      - Capture the Flag
   - name: Kipos
     modes:
       - Free-For-All
@@ -127,14 +126,8 @@ maps:
       - Team Deathmatch
   - name: Singe
     modes:
-      - Free-For-All
-      - Breakout
-      - Kill Confirmed
-      - King of the Flag
+      - Team Crazy King
       - Domination
-      - Team Deathmatch
-      - Team Kill Confirmed
-      - Team Breakout
   - name: Fluss
     modes:
       - Capture the Flag
@@ -144,14 +137,9 @@ maps:
   - name: Jungler
     modes:
       - Attrition
-      - Team Deathmatch
-      - Team Kill Confirmed
   - name: Hooktail
     modes:
       - Attrition
-      - Team Deathmatch
-      - Team Breakout
-      - Team Kill Confirmed
   - name: Canbor
     modes:
       - Team Deathmatch
@@ -194,3 +182,28 @@ maps:
   - name: Swashbuckler
     modes:
       - Flag Football
+  - name: Hobbersnatch
+    modes:
+      - Capture the Flag
+  - name: Library
+    modes:
+      - Flag Football
+  - name: Illios
+    modes:
+      - Team King of the Flag
+  - name: Lunar Lanes
+    modes: 
+      - Neutral Flag
+  - name: Treeshroud
+    modes: 
+      - Neutral Flag
+  - name: Ollie
+    modes: 
+      - Attrition
+  - name: Cliffville
+    modes:
+      - Domination
+  - name: Inferno
+    modes:
+      - Domination
+      - Team Crazy King
