@@ -30,7 +30,6 @@ maps:
   - name: Ruiter
     modes:
       - Kill Confirmed
-      - Crazy King
       - Free-For-All
   - name: Suburbia
     modes:
