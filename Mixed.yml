@@ -203,7 +203,6 @@ maps:
   - name: Cliffville
     modes:
       - Domination
-      - Team Crazy King
   - name: Inferno
     modes:
       - Domination
