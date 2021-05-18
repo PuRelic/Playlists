@@ -1,0 +1,22 @@
+name: Pull request checks
+
+on: # yamllint disable-line rule:truthy
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  yml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: YAML Lint
+        uses: ibiqlik/action-yamllint@v3.0.1
+        with:
+          format: github
+          strict: true
+          config_data: |
+            rules:
+              document-start:
+                present: false
