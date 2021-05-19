@@ -133,9 +133,6 @@ maps:
   - name: Sakura
     modes:
       - Flag Football
-  - name: Swashbuckler
-    modes:
-      - Flag Football
   - name: Hobbersnatch
     modes:
       - Capture the Flag
@@ -154,3 +151,6 @@ maps:
   - name: Ollie
     modes: 
       - Attrition
+  - name: Super Bowl Sunday
+    modes:
+      - Flag Football
