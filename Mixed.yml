@@ -179,9 +179,6 @@ maps:
   - name: Sakura
     modes:
       - Flag Football
-  - name: Swashbuckler
-    modes:
-      - Flag Football
   - name: Hobbersnatch
     modes:
       - Capture the Flag
@@ -208,3 +205,6 @@ maps:
     modes:
       - Domination
       - Team Crazy King
+  - name: Superbowl Sunday
+    modes:
+      - Flag Football
