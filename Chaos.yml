@@ -65,5 +65,4 @@ maps:
   - name: Mohenjo-daro
     modes:
       - Free-For-All
-      - Kill Confirmed
       - Breakout
