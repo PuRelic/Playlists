@@ -151,6 +151,6 @@ maps:
   - name: Ollie
     modes: 
       - Attrition
-  - name: Super Bowl Sunday
+  - name: Superbowl Sunday
     modes:
       - Flag Football
