@@ -1,0 +1,16 @@
+min_players:
+  required: true
+  type: integer
+
+maps:
+  required: true
+  type: list
+  schema:
+    type: dict
+    schema:
+      name:
+        required: true
+        type: string
+      modes:
+        required: true
+        type: list
