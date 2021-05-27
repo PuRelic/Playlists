@@ -67,3 +67,7 @@ maps:
       - Free-For-All
       - Kill Confirmed
       - Breakout
+  - name: Imperio
+    modes:
+      - Free-For-All
+      - Kill Confirmed
