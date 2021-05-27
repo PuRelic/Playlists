@@ -182,9 +182,6 @@ maps:
   - name: Hobbersnatch
     modes:
       - Capture the Flag
-  - name: Library
-    modes:
-      - Flag Football
   - name: Illios
     modes:
       - Team King of the Flag
@@ -208,3 +205,20 @@ maps:
   - name: Superbowl Sunday
     modes:
       - Flag Football
+  - name: Cliffville
+    modes:
+      - Domination
+      - Team Crazy King
+  - name: Soreaa
+    modes: 
+      - King of the Hill
+  - name: Sunplate
+    modes:
+      - King of the Hill
+  - name: Lush
+    modes: 
+      - King of the Hill
+  - name: Imperio
+    modes: 
+      - Free-For-All
+      - Kill Confirmed
