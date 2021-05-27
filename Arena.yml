@@ -2,21 +2,15 @@ min_players: 4
 maps:
   - name: Arctic Outpost
     modes:
-      - Team Deathmatch
       - Team King of the Flag
+      - Neutral Flag
   - name: Brickton
     modes:
-      - Team Deathmatch
-      - Team Kill Confirmed
-      - Team Breakout
       - Multi-Team Deathmatch
       - Multi-Team Kill Confirmed
       - Multi-Team Breakout
   - name: Garden
     modes:
-      - Team Deathmatch
-      - Domination
-      - Stockpile
       - Multi-Team Stockpile
       - Multi-Team Deathmatch
       - Team Crazy King
@@ -40,14 +34,11 @@ maps:
       - Team Deathmatch
   - name: Kipos
     modes:
-      - Team Kill Confirmed
-      - Team Breakout
       - Multi-Team Kill Confirmed
       - Squad Kill Confirmed
       - Multi-Team Breakout
       - Squad Breakout
       - Squad King of the Flag
-      - Team King of the Flag
   - name: Ruiter
     modes:
       - Team Deathmatch
@@ -75,9 +66,7 @@ maps:
       - Team Kill Confirmed
   - name: Fort Caelum
     modes:
-      - Team Deathmatch
       - Team Breakout
-      - Team Kill Confirmed
   - name: Rokost
     modes:
       - Attrition
@@ -86,7 +75,7 @@ maps:
   - name: Spore
     modes:
       - Team Kill Confirmed
-      - Team reakout
+      - Team Breakout
       - Team Deathmatch
   - name: Diamond Mines
     modes:
@@ -105,8 +94,6 @@ maps:
       - Attrition
   - name: Canbor
     modes:
-      - Team Deathmatch
-      - Team Kill Confirmed
       - Team Breakout
   - name: Glowshroom Cave
     modes:
@@ -136,9 +123,6 @@ maps:
   - name: Hobbersnatch
     modes:
       - Capture the Flag
-  - name: Library
-    modes:
-      - Flag Football
   - name: Illios
     modes:
       - Team King of the Flag
@@ -154,3 +138,16 @@ maps:
   - name: Superbowl Sunday
     modes:
       - Flag Football
+  - name: Cliffville
+    modes:
+      - Domination
+      - Team Crazy King
+  - name: Soreaa
+    modes: 
+      - King of the Hill
+  - name: Sunplate
+    modes:
+      - King of the Hill
+  - name: Lush
+    modes: 
+      - King of the Hill
