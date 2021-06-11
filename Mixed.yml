@@ -1,4 +1,4 @@
-min_players: 4
+min_players: 2
 maps:
   - name: Arctic Outpost
     modes:
