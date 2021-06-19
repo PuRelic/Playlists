@@ -1,0 +1,5 @@
+min_players: 2
+maps:
+  - name: Void
+    modes:
+      - Standard UHC
