@@ -1,6 +1,6 @@
-min_players:
-  required: true
-  type: integer
+settings:
+  required: false
+  type: dict
 
 maps:
   required: true
