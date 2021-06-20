@@ -1,3 +1,4 @@
+min_players: 2
 settings:
   repeat_maps: true
   random_option: false
