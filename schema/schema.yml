@@ -1,3 +1,7 @@
+min_players:
+  required: false
+  type: integer
+
 settings:
   required: false
   type: dict
