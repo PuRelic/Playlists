@@ -1,5 +1,11 @@
-min_players: 2
+settings:
+  min_players: 4
+  repeat_maps: true
+  random_option: false
+  voting_duration: 30
+  cycle_duration: 20
 maps:
-  - name: Void
+  - name: UHC
     modes:
-      - Standard UHC
+      - UHC
+      - Speed UHC
