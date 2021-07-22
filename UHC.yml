@@ -7,5 +7,5 @@ settings:
 maps:
   - name: UHC
     modes:
-      - UHC
+      - Standard UHC
       - Speed UHC
